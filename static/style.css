@@ -1,0 +1,20 @@
+*{
+    background-color:lightgoldenrodyellow;
+}
+
+td{
+    width: 65px;
+    height: 65px;
+    border: 1px solid black
+}
+
+.container{
+    justify-content: center;
+}
+.color1{
+    background-color: black;
+}
+
+.color2{
+    background-color: orangered;
+}
